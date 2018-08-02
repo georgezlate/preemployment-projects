@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11215" started-at="2018-08-02T13:01:47Z" finished-at="2018-08-02T13:01:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11215" started-at="2018-08-02T13:01:47Z" finished-at="2018-08-02T13:01:59Z">
+      <class name="test.BasicTab3Test">
+        <test-method status="PASS" signature="initSetP()[pri:0, instance:test.BasicTab3Test@6d4b1c02]" name="initSetP" is-config="true" duration-ms="2412" started-at="2018-08-02T13:01:47Z" finished-at="2018-08-02T13:01:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initSetP -->
+        <test-method status="PASS" signature="initSet()[pri:0, instance:test.BasicTab3Test@6d4b1c02]" name="initSet" is-config="true" duration-ms="4859" started-at="2018-08-02T13:01:50Z" finished-at="2018-08-02T13:01:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initSet -->
+        <test-method status="PASS" signature="basicTab3Test()[pri:0, instance:test.BasicTab3Test@6d4b1c02]" name="basicTab3Test" duration-ms="1187" started-at="2018-08-02T13:01:55Z" finished-at="2018-08-02T13:01:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basicTab3Test -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:test.BasicTab3Test@6d4b1c02]" name="afterMethod" is-config="true" duration-ms="118" started-at="2018-08-02T13:01:56Z" finished-at="2018-08-02T13:01:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="tearDownP()[pri:0, instance:test.BasicTab3Test@6d4b1c02]" name="tearDownP" is-config="true" duration-ms="2624" started-at="2018-08-02T13:01:56Z" finished-at="2018-08-02T13:01:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownP -->
+      </class> <!-- test.BasicTab3Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
